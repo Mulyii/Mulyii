@@ -2,7 +2,7 @@
 
 **Hello world !**
 
-**你好，世界！**
+**你好，世界！**<img alig src="https://github.com/Mulyq/private/blob/main/pictures/hello world.jpg">
 
 
 
